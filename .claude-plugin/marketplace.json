@@ -1,0 +1,22 @@
+{
+  "name": "showtake",
+  "owner": { "name": "Orchestero", "email": "team@showtake.app" },
+  "metadata": {
+    "description": "ShowTake: your coding agent films demo videos of your iOS and Mac apps.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "showtake",
+      "source": "./plugins/showtake",
+      "description": "Film demo videos of your iOS (Simulator) and Mac apps: the agent drives the real app, ShowTake renders zooms, captions, App Store previews and social cuts. Needs the ShowTake Mac app (free tier available).",
+      "version": "1.0.0",
+      "author": { "name": "Orchestero" },
+      "homepage": "https://showtake.app",
+      "repository": "https://github.com/orchestero/showtake-claude-plugin",
+      "license": "MIT",
+      "keywords": ["video", "demo", "ios", "macos", "simulator", "app-store", "app-preview", "mcp"],
+      "category": "productivity"
+    }
+  ]
+}

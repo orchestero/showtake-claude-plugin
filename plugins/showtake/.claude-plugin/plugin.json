@@ -1,0 +1,10 @@
+{
+  "name": "showtake",
+  "version": "1.0.0",
+  "description": "Film demo videos of your iOS (Simulator) and Mac apps with ShowTake: zooms on every tap, captions, App Store previews, social cuts and replayable flows.",
+  "author": { "name": "Orchestero", "email": "team@showtake.app", "url": "https://showtake.app" },
+  "homepage": "https://showtake.app/docs/mcp-setup",
+  "repository": "https://github.com/orchestero/showtake-claude-plugin",
+  "license": "MIT",
+  "keywords": ["video", "demo", "ios", "macos", "simulator", "app-store", "app-preview", "mcp"]
+}

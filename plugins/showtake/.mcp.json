@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "showtake": {
+      "command": "/Applications/ShowTake.app/Contents/MacOS/showtake-mcp",
+      "args": []
+    }
+  }
+}
